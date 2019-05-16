@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BoraLA</string>
+    <string name="action_settings">Sobre Nós</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="usuario">usuario</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+
+    <string-array name="tipos_de_gasto">
+        <item>Alimentacao</item>
+        <item>Hospedagem</item>
+        <item>Transporte</item>
+        <item>Outros</item>
+    </string-array>
+    <string name="action_extras">Extras</string>
+    <string name="confirmacao_exclusao_viagem">Deseja excluir a viagem?</string>
+    <string name="sim">sim</string>
+    <string name="nao">não</string>
+    <string name="gastos_realizados">gastos realizados</string>
+    <string name="remover">remover</string>
+    <string name="opcoes">opções</string>
+    <string name="erro_autenticao">erro no login</string>
+</resources>
